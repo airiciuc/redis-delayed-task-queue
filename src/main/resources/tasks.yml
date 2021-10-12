@@ -1,0 +1,4 @@
+- name: every 5 seconds
+  period: 5
+- name: every 10 seconds
+  period: 10
